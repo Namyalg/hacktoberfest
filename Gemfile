@@ -32,7 +32,7 @@ gem 'octokit', '~> 4.18.0'
 gem 'omniauth-github', '~> 1.4.0'
 gem 'omniauth-rails_csrf_protection', '~> 0.1'
 
-gem 'puma', '~> 4.0'
+gem 'puma', '~> 4.3'
 
 gem 'rails', '~> 5.2.3'
 
